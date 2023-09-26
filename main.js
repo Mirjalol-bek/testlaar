@@ -70,7 +70,7 @@ for (let i = 0; i < Savollar.length; i++) {
 alert("Siz " + Savollar.length  + " ta savoldan " +  togriJavoblar+ " ta to'gri topdiz.");
 
  if ( togriJavoblar >= Savollar.length-3) {
-    alert("Siz grantga kirdingiz");
+    alert("Siz grant asosida o'qishga qabul qilindingiz.");
 }
 else if( togriJavoblar === Savollar.length-5 || togriJavoblar > Savollar.length-3){
     alert("Siz to'lov kontrakt asosida o'qishga qabul qilindingiz.");
